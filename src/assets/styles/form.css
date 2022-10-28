@@ -1,0 +1,33 @@
+.n-alert {
+  margin-bottom: 15px;
+}
+
+.n-form {
+  position: relative;
+  padding: 15px;
+  background-color: var(--light-bg-color);
+  border: 1px solid var(--border-color);
+}
+
+.n-form-item{
+  margin-bottom: 3px;
+}
+
+.submit {
+  width: 100%;
+}
+
+.footer {
+  margin-top: 15px;
+  padding: 15px;
+  border: 1px solid var(--border-color);
+  text-align: center;
+}
+
+.n-alert,
+.n-form,
+.n-input,
+.submit,
+.footer {
+  border-radius: 6px;
+}
